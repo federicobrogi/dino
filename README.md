@@ -11,8 +11,8 @@ The user can choose Y or X variables for **customized graphs and models**.
 Sections:
 - Regression Adjustment
 - Synthetic Control Method
-- Matching
-- Difference in difference
+- Propensity Score Matching
+- Difference in Difference
 - Regression Discontinuity Design
 - Interrupted Time Series Analysis
 
