@@ -1,6 +1,8 @@
 # dino
 **An R application for policy evaluation**
 
+https://federicobrogi.shinyapps.io/dino/
+
 Version 1.0 - embryonic. I just started working on it!
 
 dino is an R Shiny dashboard for policy evaluation studies. 
