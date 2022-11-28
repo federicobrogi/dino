@@ -34,9 +34,9 @@ ui <- fluidPage(theme = shinytheme("sandstone"), #sandstone cosmo journal
             tabPanel("Regression Adjustment",
               tabsetPanel(type = "tabs",
                           tabPanel("Overview",
-                                   fluidPage(h3("Regression adjustment"),
-                                             br(),
-                           p("Regression-adjustment (RA) can be seen as a general estimation procedure under selection on observables.
+                                   fluidPage(br(),
+                           p(strong(em("Method"))), 
+                             p("Regression-adjustment (RA) can be seen as a general estimation procedure under selection on observables.
                             RA is suitable only when the conditional independence assumption (CIA) holds.
                             Both outcomes for treated and untreated units, m1(x) and m0(x),
                             can be estimated either parametrically, semi-parametrically, or nonparametrically: 
@@ -49,9 +49,13 @@ ui <- fluidPage(theme = shinytheme("sandstone"), #sandstone cosmo journal
                               br(),
                            p("References: https://www.jstor.org/stable/24033341"),
                             br(),
-                          p(tags$img(src = "https://debruine.github.io/shinyintro/images/logos/shinyintro.png",
-                                  width = "100px",
-                                  height = "100px"))
+                           p(strong(em("Dataset"))),
+                           br(), 
+                           p("Instructional dataset, N=445, cross-sectional individual data Accompanying Econometric Analysis 
+                             of Cross Section and Panel Data Jeffrey M. Wooldridge, MIT Press,(c) 2001.
+                             A data.frame with 471 observations on 30 variables."), 
+                           br(),
+                           p("Datasets also accessible from: https://econpapers.repec.org/paper/bocbocins/jtrain2.htm")
                             )),   #end tabpanel overview
                           tabPanel("Dataset", box(withSpinner(DTOutput("table")), width = 12)),
                           tabPanel("Summary", 
