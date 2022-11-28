@@ -1,7 +1,7 @@
 # dino
 **An R application for policy evaluation**
 
-Version 1.0 - embryonic. i just started working on it!
+Version 1.0 - embryonic. I just started working on it!
 
 dino is an R Shiny dashboard for policy evaluation studies. 
 It allows the user to analyze a dataset and **make an ex-post impact assessment calculating Average Treatment Effects**.
