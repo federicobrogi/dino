@@ -4,12 +4,11 @@
 Version 1.0 - embryonic. i just started working on it!
 
 dino is an R Shiny dashboard for policy evaluation studies. 
-It allows the user to analyze a dataset and **make an impact assessment calculating average treatment effects**.
-**No need to know a programming language**.
+It allows the user to analyze a dataset and **make an ex-post impact assessment calculating average treatment effects**.
 The user can choose Y or X variables for **customized graphs and models**.
+**No need to know a programming language**.
 
 Sections:
-- APP overview
 - Regression Adjustment
 - Synthetic Control Method
 - Matching
