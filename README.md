@@ -18,7 +18,7 @@ Sections:
 - Regression Discontinuity Design
 - Interrupted Time Series Analysis
 
-Not all methods have been already implemented.
+Not all methods have been already implemented. <br>
 Now available only default datasets. 
 Next version will let the user to upload external datasets.
 An upcoming release will include enhanced visualizations thanks to Shiny Fluent components.
