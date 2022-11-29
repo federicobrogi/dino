@@ -20,5 +20,5 @@ Sections:
 
 Not all methods have been already implemented. <br>
 Now available only default datasets. Next version will let the user to upload external datasets. <br>
-An upcoming release will include enhanced visualizations thanks to Shiny Fluent components. <br>
+An upcoming release will include enhanced visualizations. <br>
 Downloads soon available.
