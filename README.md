@@ -3,11 +3,11 @@
 
 https://federicobrogi.shinyapps.io/dino/
 
-Version 1.0 - embryonic. I just started working on it!
+Version 0.1
 
-dino is an R Shiny dashboard for policy evaluation studies. 
-It allows to analyze a dataset and **make an ex-post impact assessment calculating Average Treatment Effects**.
-The user can choose Y or X variables for **customized graphs and models**. <br>
+DINO is an R Shiny dashboard for policy evaluation studies. 
+It allows to become more familiar on **ex-post counterfactual models**.
+<br>
 **No need to know a programming language**.
 
 Sections:
@@ -19,6 +19,6 @@ Sections:
 - Interrupted Time Series Analysis
 
 Not all methods have been already implemented. <br>
-Now available only default datasets. Next version will let the user to upload external datasets. <br>
+Now available only default datasets. <br>
 An upcoming release will include enhanced visualizations. <br>
 Downloads soon available.
