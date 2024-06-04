@@ -1,5 +1,5 @@
 # dino
-**An R application for policy evaluation**
+**An R-based app for policy evaluation**
 
 https://federicobrogi.shinyapps.io/dino/
 
@@ -11,6 +11,7 @@ It allows to become more familiar on **ex-post counterfactual models**.
 **No need to know a programming language**.
 
 Sections:
+- Basic concepts of policy evaluation
 - Regression Adjustment
 - Synthetic Control Method
 - Propensity Score Matching
