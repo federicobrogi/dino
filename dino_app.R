@@ -1,3 +1,7 @@
+##############################################
+# DINO: An R-based App for Policy Evaluation #
+##############################################
+
 library(shiny)
 library(shinythemes)
 library(shinydashboard)
@@ -14,7 +18,7 @@ library(foreign) ; library(tsModel) ; library("lmtest") ; library("Epi")
 library("splines") ; library("vcd")
 
 #setwd("C:/Users/UTENTE/Documents/R/dino")
-# basedir = ("C:/Users/UTENTE/Documents/R/dino")
+#basedir = ("C:/Users/UTENTE/Documents/R/dino")
 
 source("about_ui.R")
 source("intro_ui.R")
