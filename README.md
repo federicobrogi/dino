@@ -10,7 +10,7 @@ Aims
 - Narrow the gap between experts and non-experts , fostering a more democratic and inclusive policy evaluation process.
 - Encourage more informed participation in the public debate.
 
-Advantages
+Features
 - Intuitive Interface: Designed for users with basic statistical knowledge and no need to be skilled on statistical softwares.
 - Full Automation: Counterfactual analyses performed automatically.
 - Interactive Visualizations: Results presented through interactive graphs and tables.
@@ -19,7 +19,7 @@ Advantages
 
 Future Developments
 - Extension of Methodologies: Additional counterfactual evaluation methods.
-- Customization: Allow users to customize analyses according to specific needs.
+- Customization: Allow users to customize analyses according to specific needs uploading their own data.
 - Collaboration and Sharing: Implement functionality for sharing results with colleagues and stakeholders.
 
 Send your feedback to:
